@@ -47,6 +47,6 @@ wrote for using streamlit is commented and placed here:
  src/streamlit_app_breaking_commented.py
 ```
 
-[//]: # (git bundle create LUCIAN_ISTRATI.bundle --all)
+# Documentation
 
-[//]: # (# $ git bundle create repo.bundle --all)
+For more details of the implementation you may check "documentation.md" file
