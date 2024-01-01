@@ -1,4 +1,4 @@
-# InstaDeep-assignment
+# LLM summarization
 
 ## Create embeddings and insert them in the Vector DB
 
