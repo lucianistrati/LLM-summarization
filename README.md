@@ -117,3 +117,6 @@ order to then evaluate the summarization techniques:
   - Reading score: 0.21
   - Fidelity score: 0.09
   - Average score: 0.22
+    
+  
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
