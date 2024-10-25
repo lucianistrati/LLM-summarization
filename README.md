@@ -37,14 +37,10 @@ make install
 ```
 
 
-## Problem with streamlit
-
-It's commented and not working. I could not figure out how to make it work with 
-vertexai as it could not recongnize vertexai one as imported, however all the code I 
-wrote for using streamlit is commented and placed here:
+## Running the streamlit app
 
 ```bash
- src/streamlit_app_breaking_commented.py
+ streamlit run src/app.py
 ```
 
 ## Documentation
